@@ -1,0 +1,17 @@
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# Build
+target/
+build/
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
